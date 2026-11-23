@@ -34,7 +34,8 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
 * **Perfil Profesional en LinkedIn:** [Enlace a Perfil de LinkedIn](https://www.linkedin.com/feed/foryou/?contentTrackingId=ywd3WtHBSpqVCGBOJPu5sQ%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text_winback%3ANav%3AIn-Product)
-* **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](https://github.com/rodrialexis206-ui)
+* **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](<img width="237" height="311" alt="image" src="https://github.com/user-attachments/assets/8b8ed194-ff06-476b-bdd3-72dfb848bcfe" />)
+
 * **Correo Institucional UTP:** alexis.rodriguez@utp.ac.pa
 
 <p align="center">
